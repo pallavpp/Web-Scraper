@@ -1,7 +1,7 @@
 # Web Scraper
 A python script that uses BeautifulSoup to scrape [TimesJobs](https://www.timesjobs.com/) for jobs requiring a specific skill.
 
-Data is stored in a .csv file and is continuously updated after a specified time period.
+Data is stored in a CSV and a TXT file and is continuously updated after a specified time period.
 
 
 ## Requirements
