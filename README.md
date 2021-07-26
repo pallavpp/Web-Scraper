@@ -6,4 +6,5 @@ Data is stored in a CSV and a TXT file and is continuously updated after a speci
 
 ## Requirements
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [Pandas](https://pypi.org/project/pandas/)
 - [Requests](https://pypi.org/project/requests/)
